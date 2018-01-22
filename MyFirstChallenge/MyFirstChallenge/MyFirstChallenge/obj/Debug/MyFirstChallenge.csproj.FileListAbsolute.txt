@@ -1,0 +1,9 @@
+C:\Users\hafel\Desktop\DevUChallengeOne\MyFirstChallenge\MyFirstChallenge\bin\MyFirstChallenge.dll.config
+C:\Users\hafel\Desktop\DevUChallengeOne\MyFirstChallenge\MyFirstChallenge\bin\MyFirstChallenge.dll
+C:\Users\hafel\Desktop\DevUChallengeOne\MyFirstChallenge\MyFirstChallenge\bin\MyFirstChallenge.pdb
+C:\Users\hafel\Desktop\DevUChallengeOne\MyFirstChallenge\MyFirstChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hafel\Desktop\DevUChallengeOne\MyFirstChallenge\MyFirstChallenge\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hafel\Desktop\DevUChallengeOne\MyFirstChallenge\MyFirstChallenge\obj\Debug\MyFirstChallenge.csprojResolveAssemblyReference.cache
+C:\Users\hafel\Desktop\DevUChallengeOne\MyFirstChallenge\MyFirstChallenge\obj\Debug\MyFirstChallenge.csproj.CoreCompileInputs.cache
+C:\Users\hafel\Desktop\DevUChallengeOne\MyFirstChallenge\MyFirstChallenge\obj\Debug\MyFirstChallenge.dll
+C:\Users\hafel\Desktop\DevUChallengeOne\MyFirstChallenge\MyFirstChallenge\obj\Debug\MyFirstChallenge.pdb
