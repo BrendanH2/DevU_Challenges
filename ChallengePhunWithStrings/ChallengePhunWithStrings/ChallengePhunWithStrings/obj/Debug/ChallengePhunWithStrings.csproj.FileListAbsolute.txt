@@ -1,0 +1,9 @@
+C:\Users\hafel\Desktop\NewDevU\ChallengePhunWithStrings\ChallengePhunWithStrings\ChallengePhunWithStrings\bin\ChallengePhunWithStrings.dll.config
+C:\Users\hafel\Desktop\NewDevU\ChallengePhunWithStrings\ChallengePhunWithStrings\ChallengePhunWithStrings\bin\ChallengePhunWithStrings.dll
+C:\Users\hafel\Desktop\NewDevU\ChallengePhunWithStrings\ChallengePhunWithStrings\ChallengePhunWithStrings\bin\ChallengePhunWithStrings.pdb
+C:\Users\hafel\Desktop\NewDevU\ChallengePhunWithStrings\ChallengePhunWithStrings\ChallengePhunWithStrings\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hafel\Desktop\NewDevU\ChallengePhunWithStrings\ChallengePhunWithStrings\ChallengePhunWithStrings\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hafel\Desktop\NewDevU\ChallengePhunWithStrings\ChallengePhunWithStrings\ChallengePhunWithStrings\obj\Debug\ChallengePhunWithStrings.csprojResolveAssemblyReference.cache
+C:\Users\hafel\Desktop\NewDevU\ChallengePhunWithStrings\ChallengePhunWithStrings\ChallengePhunWithStrings\obj\Debug\ChallengePhunWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\hafel\Desktop\NewDevU\ChallengePhunWithStrings\ChallengePhunWithStrings\ChallengePhunWithStrings\obj\Debug\ChallengePhunWithStrings.dll
+C:\Users\hafel\Desktop\NewDevU\ChallengePhunWithStrings\ChallengePhunWithStrings\ChallengePhunWithStrings\obj\Debug\ChallengePhunWithStrings.pdb

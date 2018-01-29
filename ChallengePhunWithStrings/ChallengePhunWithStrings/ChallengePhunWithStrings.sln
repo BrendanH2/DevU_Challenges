@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengePhunWithStrings", "ChallengePhunWithStrings\ChallengePhunWithStrings.csproj", "{96423A40-22B0-4067-8AD9-37E2E1EB5809}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96423A40-22B0-4067-8AD9-37E2E1EB5809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96423A40-22B0-4067-8AD9-37E2E1EB5809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96423A40-22B0-4067-8AD9-37E2E1EB5809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96423A40-22B0-4067-8AD9-37E2E1EB5809}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC49EA6E-368A-41E8-B59F-4DB9C8213808}
+	EndGlobalSection
+EndGlobal
