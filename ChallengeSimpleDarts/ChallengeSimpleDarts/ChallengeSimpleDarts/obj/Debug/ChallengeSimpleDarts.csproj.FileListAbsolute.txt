@@ -1,0 +1,11 @@
+C:\Users\hafel\Desktop\NewDevU\ChallengeSimpleDarts\ChallengeSimpleDarts\ChallengeSimpleDarts\bin\ChallengeSimpleDarts.dll.config
+C:\Users\hafel\Desktop\NewDevU\ChallengeSimpleDarts\ChallengeSimpleDarts\ChallengeSimpleDarts\bin\ChallengeSimpleDarts.dll
+C:\Users\hafel\Desktop\NewDevU\ChallengeSimpleDarts\ChallengeSimpleDarts\ChallengeSimpleDarts\bin\ChallengeSimpleDarts.pdb
+C:\Users\hafel\Desktop\NewDevU\ChallengeSimpleDarts\ChallengeSimpleDarts\ChallengeSimpleDarts\bin\Darts.dll
+C:\Users\hafel\Desktop\NewDevU\ChallengeSimpleDarts\ChallengeSimpleDarts\ChallengeSimpleDarts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hafel\Desktop\NewDevU\ChallengeSimpleDarts\ChallengeSimpleDarts\ChallengeSimpleDarts\bin\Darts.pdb
+C:\Users\hafel\Desktop\NewDevU\ChallengeSimpleDarts\ChallengeSimpleDarts\ChallengeSimpleDarts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hafel\Desktop\NewDevU\ChallengeSimpleDarts\ChallengeSimpleDarts\ChallengeSimpleDarts\obj\Debug\ChallengeSimpleDarts.csprojResolveAssemblyReference.cache
+C:\Users\hafel\Desktop\NewDevU\ChallengeSimpleDarts\ChallengeSimpleDarts\ChallengeSimpleDarts\obj\Debug\ChallengeSimpleDarts.csproj.CoreCompileInputs.cache
+C:\Users\hafel\Desktop\NewDevU\ChallengeSimpleDarts\ChallengeSimpleDarts\ChallengeSimpleDarts\obj\Debug\ChallengeSimpleDarts.dll
+C:\Users\hafel\Desktop\NewDevU\ChallengeSimpleDarts\ChallengeSimpleDarts\ChallengeSimpleDarts\obj\Debug\ChallengeSimpleDarts.pdb

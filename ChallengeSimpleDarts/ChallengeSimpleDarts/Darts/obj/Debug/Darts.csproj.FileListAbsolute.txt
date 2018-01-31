@@ -1,0 +1,6 @@
+C:\Users\hafel\Desktop\NewDevU\ChallengeSimpleDarts\ChallengeSimpleDarts\Darts\bin\Debug\Darts.dll
+C:\Users\hafel\Desktop\NewDevU\ChallengeSimpleDarts\ChallengeSimpleDarts\Darts\bin\Debug\Darts.pdb
+C:\Users\hafel\Desktop\NewDevU\ChallengeSimpleDarts\ChallengeSimpleDarts\Darts\obj\Debug\Darts.csprojResolveAssemblyReference.cache
+C:\Users\hafel\Desktop\NewDevU\ChallengeSimpleDarts\ChallengeSimpleDarts\Darts\obj\Debug\Darts.csproj.CoreCompileInputs.cache
+C:\Users\hafel\Desktop\NewDevU\ChallengeSimpleDarts\ChallengeSimpleDarts\Darts\obj\Debug\Darts.dll
+C:\Users\hafel\Desktop\NewDevU\ChallengeSimpleDarts\ChallengeSimpleDarts\Darts\obj\Debug\Darts.pdb
